@@ -20,7 +20,7 @@ PharmaCRM is a comprehensive Customer Relationship Management system designed sp
 - **HTTP Client:** Axios
 - **Database:** Supabase (PostgreSQL)
 - **Authentication:** Supabase Auth
-- **Styling:** Tailwind CSS
+- **Styling:** Tailwind CSS 4
 - **UI Components:** Shadcn/ui
 
 ### 4. User Roles & Permissions
