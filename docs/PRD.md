@@ -14,7 +14,7 @@ PharmaCRM is a comprehensive Customer Relationship Management system designed sp
 
 ### 3. Technology Stack
 
-- **Frontend:** React 18+ (Latest), Next.js 14+ (App Router)
+- **Frontend:** React 19+ (Latest), Next.js 15+ (App Router)
 - **State Management:** Zustand
 - **Data Fetching:** TanStack Query (React Query)
 - **HTTP Client:** Axios
